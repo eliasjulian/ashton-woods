@@ -1,4 +1,4 @@
-#AW Email Design System
+# AW Email Design System
 
 A changelog of design updates to the system. Each commit accompanied by an explanation of what's changed and why, along with a .png export of the new design element.
 
